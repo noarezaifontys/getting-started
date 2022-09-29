@@ -70,6 +70,6 @@ jobs:
  
             name: getting-started-github 
  
-            location: 'west europe' 
+            location: 'Germany West Central' 
 
             ports: '3000'
