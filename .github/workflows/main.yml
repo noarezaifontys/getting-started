@@ -73,3 +73,11 @@ jobs:
             location: 'Germany West Central' 
 
             ports: '3000'
+            
+            azure-file-volume-share-name: 'filesharenrmn'
+
+            azure-file-volume-account-name: 'dockerstoragenrmn'
+
+            azure-file-volume-account-key: 'Mc90Tu4WlDhU4nNwTqHNbi7rXOoB053rJDwSDEQwpNUabQYOVou9USvgvbCRH9GI4aXR9jq/caBV+AStYy8lgw=='
+
+            azure-file-volume-mount-path: '/etc/todos'
