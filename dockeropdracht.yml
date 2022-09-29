@@ -33,7 +33,7 @@ jobs:
             registry-login-server: ${{ secrets.REGISTRY_LOGIN_SERVER }}
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
-            name: getting-started-github
+            name: getting-started
             location: 'west europe'
             ports: '3000'
             azure-file-volume-share-name: 'containerapp'
